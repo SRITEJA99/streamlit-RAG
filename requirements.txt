@@ -11,7 +11,5 @@ langchain-unstructured
 langchain-chroma
 langchain-groq
 langchain-classic
-opencv-python-headless
-poppler-utils
-tesseract-ocr
-libgl1
+poppler
+tesseract
