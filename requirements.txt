@@ -11,5 +11,3 @@ langchain-unstructured
 langchain-chroma
 langchain-groq
 langchain-classic
-poppler
-tesseract
